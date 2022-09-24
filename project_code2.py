@@ -42,8 +42,8 @@ def authenticate(c_id,c_secret,pw):
         client_id = c_id,
         client_secret = c_secret,
         password = pw,
-        user_agent = 'sentiment_app1 by u/keel_appeal',
-        username = 'keel_appeal',
+        user_agent = "***Your User Agent Here***",
+        username = "***Your Username Here***,
         check_for_async = False
         )
     return reddit
