@@ -1,5 +1,7 @@
 # RedditAutismProject
 
+Still need to update the references for this paper. The posted code are the helper functions used during the completion of this project.
+
 This is a project I started ~May of 2020 with attached research paper. I use language consistent with medical literature regarding the term "disorder".
 Many people, especially those on the higher functioning end of the spectrum would argue with this terms application and have strong arguments that it shouldn't
 apply. Given the reader of this is likely to be more familiar with scientific literature, I opted to maintain usage of the term. It is not meant in a derogatory
